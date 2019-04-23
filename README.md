@@ -1,0 +1,5 @@
+# innosetup
+innosetup打包程序
+
+
+使用innosetup打包工具可以将开发好的可执行程序和所需要的资源打包成安装程序
